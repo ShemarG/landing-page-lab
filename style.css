@@ -1,3 +1,27 @@
-main{
-display: inline;    
+header {
+    text-align: center;
+}
+
+main {
+    width: 550px;
+    margin: auto;
+}
+
+#shoppingList {
+    float: left;
+    height: 550px;
+    width: 150px;
+}
+
+#paragraph {
+    width: 350px;
+    float: right;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 350px;
 }
